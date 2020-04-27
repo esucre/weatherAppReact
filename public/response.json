@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": -80,
+        "lat": 9
+    },
+    "weather": [{
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 304.75,
+        "feels_like": 307.71,
+        "temp_min": 303.15,
+        "temp_max": 306.15,
+        "pressure": 1013,
+        "humidity": 62
+    },
+    "visibility": 9000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 20
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1587923314,
+    "sys": {
+        "type": 1,
+        "id": 7196,
+        "country": "PA",
+        "sunrise": 1587899113,
+        "sunset": 1587943794
+    },
+    "timezone": -18000,
+    "id": 3703430,
+    "name": "Panama",
+    "cod": 200
+}

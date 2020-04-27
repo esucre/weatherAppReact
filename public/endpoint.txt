@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/weather?q=Panama&appid=09ca28081a77450e8088aca19eaabc6c
